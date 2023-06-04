@@ -8,3 +8,5 @@ struct TaskManagerApp: App {
         }
     }
 }
+
+TaskManagerApp.main()
